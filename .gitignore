@@ -2,8 +2,9 @@
 node_modules
 /dist
 
-*firestore.rules
-*storage.rules
+.firebase
+firestore.rules
+storage.rules
 
 # local env files
 .env.local
