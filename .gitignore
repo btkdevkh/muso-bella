@@ -2,8 +2,8 @@
 node_modules
 /dist
 
-firestore.rules
-storage.rules
+/firestore.rules
+/storage.rules
 
 # local env files
 .env.local
